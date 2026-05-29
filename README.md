@@ -13,8 +13,8 @@ Risky Edi Setiawan
 
 | Fase | Materi | Status |
 |------|--------|--------|
-| Fase 1 | Python Dasar | ✅ Selesai |
-| Fase 2 | Python Menengah | 🔄 Sedang berjalan |
+| Fase 1 | Python Dasar |  Selesai |
+| Fase 2 | Python Menengah | Selesai |
 | Fase 3 | Library AI Wajib | ⏳ Belum mulai |
 | Fase 4 | Dunia AI Beneran | ⏳ Belum mulai |
 | Target | Junior AI Engineer | 🎯 Goal |
@@ -63,26 +63,26 @@ Risky Edi Setiawan
 
 ---
 
-### 🔄 Fase 2 — Python Menengah (Sedang Berjalan)
+### (Selesai ) Fase 2 — Python Menengah (Sedang Berjalan)
 
-- [ ] **Function**
+-  **Function**
   - `def`, parameter, `return`
   - Default parameter
   - `*args` dan `**kwargs`
   - Scope: local vs global
 
-- [ ] **OOP (Object Oriented Programming)**
+-  **OOP (Object Oriented Programming)**
   - Class dan object
   - `__init__`, method, attribute
   - Inheritance
   - `super()`
 
-- [ ] **Error Handling**
+-  **Error Handling**
   - `try`, `except`, `finally`
   - Custom exception
   - Common errors: `TypeError`, `KeyError`, `ValueError`
 
-- [ ] **Modules & Packages**
+-  **Modules & Packages**
   - `import`, `from ... import`
   - Bikin module sendiri
   - Virtual environment
@@ -209,8 +209,8 @@ pesan_user = [c["content"] for c in chat if c["role"] == "user"]
 ## 📅 Timeline
 
 ```
-Minggu 1–2  → Fase 1 selesai ✅
-Minggu 2–3  → Fase 2 (sekarang)
+Minggu 1–2  → Fase 1 selesai 
+Minggu 2–3  → Fase 2 selesai
 Minggu 3–4  → Fase 3
 Minggu 4–6  → Fase 4 + project pertama
 Bulan 2–3   → Portfolio ready
